@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 8;
+    box-sizing: border-box;
+}
+
+table{
+    width: 100% ;
+}
+table th,
+table td{
+    border-bottom: 1px solid #ccc;
+    padding: 4px 5px;
+    text-align: left;
+}
+
+button{
+    padding:  2px 4px;
+    font-size: 12px;
+    margin-right: 2px;
+}
